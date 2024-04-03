@@ -25,7 +25,7 @@ By combining Grafana and Prometheus, this project aims to implement a robust mon
 
 1. Clone the repository.
 
-    `git clone https://github.com/tTomeRr/InsightSphere.git`
+    `git clone https://github.com/MaayanGiladOfer/InsightSphere.git`
 
 2. Navigate to the repository in your computer
 
