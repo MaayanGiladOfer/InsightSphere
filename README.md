@@ -15,11 +15,7 @@ By combining Grafana and Prometheus, this project aims to implement a robust mon
 * [<img src="https://kubernetes.io/images/favicon.png" width="30" height="30">](https://kubernete.io/) [Kubernetes](https://kubernetes.io/)
 
 ## Project Architcture
-
-![image](https://github.com/tTomeRr/InsightSphere/assets/129614080/61ca20b4-fc66-40d6-bfbe-52913317f1ea)
-
-
-
+![image](https://github.com/MaayanGiladOfer/InsightSphere/assets/135396661/f8c6574c-d88b-4b8e-bc8b-cf038f760d8f)
 
 ## Installation and Setup Instructions:
 
